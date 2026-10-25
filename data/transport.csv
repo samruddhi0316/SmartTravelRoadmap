@@ -1,0 +1,5 @@
+type,city,cost
+Bus,Goa,500
+Train,Goa,800
+Taxi,Goa,1500
+Rental Car,Goa,2000
